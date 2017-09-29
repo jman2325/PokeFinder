@@ -50,6 +50,7 @@
 		BF644C781F7EE13A00B75F76 /* GFGeoHashQuery.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GFGeoHashQuery.m; sourceTree = "<group>"; };
 		BF644C791F7EE13A00B75F76 /* GFQuery+Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GFQuery+Private.h"; sourceTree = "<group>"; };
 		BF644C7A1F7EE13A00B75F76 /* GFQuery.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GFQuery.m; sourceTree = "<group>"; };
+		BF644C7B1F7EEB4C00B75F76 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		BF77E9A41F7EDD1F00A90CC7 /* PokeFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF77E9A71F7EDD1F00A90CC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF77E9A91F7EDD1F00A90CC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +61,6 @@
 		BF77E9B81F7EDD1F00A90CC7 /* PokeFinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokeFinderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF77E9BC1F7EDD1F00A90CC7 /* PokeFinderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeFinderTests.swift; sourceTree = "<group>"; };
 		BF77E9BE1F7EDD1F00A90CC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF77E9C71F7EDDCF00A90CC7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,7 +171,7 @@
 				BF77E9AE1F7EDD1F00A90CC7 /* Assets.xcassets */,
 				BF77E9B01F7EDD1F00A90CC7 /* LaunchScreen.storyboard */,
 				BF77E9B31F7EDD1F00A90CC7 /* Info.plist */,
-				BF77E9C71F7EDDCF00A90CC7 /* GoogleService-Info.plist */,
+				BF644C7B1F7EEB4C00B75F76 /* GoogleService-Info.plist */,
 				BF644C681F7EE07500B75F76 /* PokeFinder-Bridging-Header.h */,
 			);
 			path = PokeFinder;
